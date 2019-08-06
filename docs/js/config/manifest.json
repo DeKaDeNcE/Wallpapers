@@ -1,0 +1,28 @@
+{
+	"name": "ÐeKaÐeNcE Wallpapers",
+	"short_name": "ÐeKaÐeNcE Wallpapers",
+	"description": "ÐeKaÐeNcE Wallpapers is a touch-enabled, responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. It features swipe, mouse and keyboard navigation, transition effects, slideshow functionality, fullscreen support and on-demand content loading and can be extended to display additional content types.",
+	"version": "0.0.1",
+	"display": "standalone",
+	"orientation": "portrait",
+	"theme_color": "#264888",
+	"background_color": "#fff",
+	"start_url": "/",
+	"icons": [{
+		"src": "../../images/logo-48.png",
+		"type": "image/png",
+		"sizes": "48x48"
+	} , {
+		"src": "../../images/logo-96.png",
+		"type": "image/png",
+		"sizes": "96x96"
+	} , {
+		"src": "../../images/logo-192.png",
+		"type": "image/png",
+		"sizes": "192x192"
+	} , {
+		"src": "../../images/logo-512.png",
+		"type": "image/png",
+		"sizes": "512x512"
+	}]
+}
